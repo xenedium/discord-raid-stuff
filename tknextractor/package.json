@@ -1,0 +1,16 @@
+{
+  "name": "tknextractor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xenedium",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.1.0",
+    "download": "^8.0.0"
+  }
+}
